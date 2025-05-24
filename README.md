@@ -1,5 +1,5 @@
 # Credit_card_Dashboard_Power_BI
-Credit card Dashboard Power BI<br />
+
 ## Project Objective:
 To develop a weekly dashboard providing real-time insights into key performance metrics and trends for credit card operations.<br />
 ## Dataset: 
